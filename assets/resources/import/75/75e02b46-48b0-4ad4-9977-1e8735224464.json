@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.Material",
+  "_effectAsset": {
+    "__uuid__": "abwstieFJFJakN1HRIe4jy"
+  },
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "diffuseColor": {
+          "__type__": "cc.Color"
+        }
+      },
+      "defines": {}
+    }
+  }
+}

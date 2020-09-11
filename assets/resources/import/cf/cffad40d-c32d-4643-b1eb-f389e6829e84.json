@@ -1,0 +1,5 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Readme",
+  "text": "Controllable spider for the Blender Game Engine. (Blender2.62)\r\n\r\nControls:\r\nW,A,S,D = walk\r\nA,D = side step\r\nwalk + Space = run\r\nLeft Mouse Button = attack \r\nMiddle Mouse Button = jump\r\nT = Die-animation 1\r\nR = Die-animation 2\r\n1,2,3 =camera change\r\n\r\n\r\nDemo-Video: https://www.youtube.com/watch?v=CnT4A9DwXeE\r\n\r\nSketchfab 3D-Preview: https://sketchfab.com/models/7336e27e5e804851bc560b298b23e628https://sketchfab.com/models/7336e27e5e804851bc560b298b23e628\r\n\r\n\r\n� DennisH2010\r\n\r\nHomepage : http://3dartdh.wordpress.com/\r\nContact me: https://3dartdh.wordpress.com/contact/\r\n\r\nSketchfab.com: https://sketchfab.com/dennish2010\r\nYouTube-Channel: https://www.youtube.com/user/DennisH2010"
+}

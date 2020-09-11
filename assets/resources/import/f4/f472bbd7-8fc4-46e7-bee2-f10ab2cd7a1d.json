@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fire",
+    "texture": "c0xFEJf4RA2JW3/lUGROXk",
+    "rect": [
+      25,
+      13,
+      145,
+      176
+    ],
+    "offset": [
+      -2.5,
+      -1
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

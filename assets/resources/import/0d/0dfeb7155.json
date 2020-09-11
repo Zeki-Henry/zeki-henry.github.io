@@ -1,0 +1,114 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adventurer-idle-00",
+      "texture": "41RUDdH41Nebt7548QZyxI",
+      "rect": [
+        14,
+        7,
+        19,
+        29
+      ],
+      "offset": [
+        -1.5,
+        -3
+      ],
+      "originalSize": [
+        50,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adventurer-idle-01",
+      "texture": "36dIrBvi5KlI/UO0XMaDWU",
+      "rect": [
+        16,
+        6,
+        17,
+        30
+      ],
+      "offset": [
+        -0.5,
+        -2.5
+      ],
+      "originalSize": [
+        50,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "hero_idle",
+    "_duration": 0.11666666666666667,
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "05GBPZwsxPJLFqrIq7/ddp"
+              }
+            },
+            {
+              "frame": 0.05,
+              "value": {
+                "__uuid__": "36nrrNeUtGtYwwHKoDtHPr"
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__uuid__": "dbO3ktne5FUK4OaPYbiP7F"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adventurer-idle-02",
+      "texture": "a9dJvgyo5H+qG7CaXX6mLu",
+      "rect": [
+        15,
+        6,
+        19,
+        30
+      ],
+      "offset": [
+        -0.5,
+        -2.5
+      ],
+      "originalSize": [
+        50,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

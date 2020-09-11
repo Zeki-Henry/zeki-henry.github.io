@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SH3",
+    "texture": "56j6fiLjRHYoPNsv3QyH1o",
+    "rect": [
+      24,
+      8,
+      50,
+      92
+    ],
+    "offset": [
+      -1,
+      -4
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

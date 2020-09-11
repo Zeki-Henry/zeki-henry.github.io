@@ -1,0 +1,39 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "EmptyPrefab",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "UpdateScene",
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "56jbZ/d6lHHZOsv4XlLBRB"
+      },
+      "fileId": "41djr4exhOv6cLJr6oSOf3"
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

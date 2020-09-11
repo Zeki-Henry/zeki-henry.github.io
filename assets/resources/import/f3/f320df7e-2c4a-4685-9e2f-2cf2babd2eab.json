@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.Mesh",
+  "_native": ".bin",
+  "_vertexBundles": [
+    {
+      "__type__": "cc.mesh.VertexBundle",
+      "data": {
+        "__type__": "cc.BufferRange",
+        "length": 128
+      },
+      "formats": [
+        {
+          "__type__": "cc.mesh.VertexFormat",
+          "name": "a_normal",
+          "type": 5126,
+          "num": 3
+        },
+        {
+          "__type__": "cc.mesh.VertexFormat",
+          "name": "a_position",
+          "type": 5126,
+          "num": 3
+        },
+        {
+          "__type__": "cc.mesh.VertexFormat",
+          "name": "a_uv0",
+          "type": 5126,
+          "num": 2
+        }
+      ],
+      "verticesCount": 4
+    }
+  ],
+  "_primitives": [
+    {
+      "__type__": "cc.mesh.Primitive",
+      "vertexBundleIndices": [
+        0
+      ],
+      "data": {
+        "__type__": "cc.BufferRange",
+        "offset": 128,
+        "length": 12
+      }
+    }
+  ],
+  "_minPos": {
+    "__type__": "cc.Vec3",
+    "x": -0.899999976158142,
+    "y": -0.899999976158142
+  },
+  "_maxPos": {
+    "__type__": "cc.Vec3",
+    "x": 0.899999976158142,
+    "y": 0.899999976158142
+  }
+}

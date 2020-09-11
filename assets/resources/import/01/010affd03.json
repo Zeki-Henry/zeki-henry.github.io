@@ -1,0 +1,213 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adventurer-run-05",
+      "texture": "baEVgUPjlHVZ2nj4JpqMdr",
+      "rect": [
+        16,
+        11,
+        20,
+        25
+      ],
+      "offset": [
+        1,
+        -5
+      ],
+      "originalSize": [
+        50,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "hero_run",
+    "_duration": 0.26666666666666666,
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "94B8iA/KpPv7Rh9ZRkPd85"
+              }
+            },
+            {
+              "frame": 0.05,
+              "value": {
+                "__uuid__": "eeYaEIUB9CerlxWDwPbKFz"
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__uuid__": "7b1kx02ClKp7zJMwkQwuxa"
+              }
+            },
+            {
+              "frame": 0.15,
+              "value": {
+                "__uuid__": "9f+Kui1btOdqS8qwAwn3EU"
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__uuid__": "dbtIMC9dRIKKwdMeuJcnDx"
+              }
+            },
+            {
+              "frame": 0.25,
+              "value": {
+                "__uuid__": "57VpKfzTtAOJJOgzm+04oN"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adventurer-run-02",
+      "texture": "4dhhuJJ1xBWYaOKKFcFVDj",
+      "rect": [
+        16,
+        11,
+        20,
+        25
+      ],
+      "offset": [
+        1,
+        -5
+      ],
+      "originalSize": [
+        50,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adventurer-run-00",
+      "texture": "94Nc54FylBmqiwcxaVfn2x",
+      "rect": [
+        17,
+        8,
+        20,
+        28
+      ],
+      "offset": [
+        2,
+        -3.5
+      ],
+      "originalSize": [
+        50,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adventurer-run-03",
+      "texture": "09miyJhSZHvq7UePSIYqUB",
+      "rect": [
+        17,
+        8,
+        23,
+        28
+      ],
+      "offset": [
+        3.5,
+        -3.5
+      ],
+      "originalSize": [
+        50,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adventurer-run-04",
+      "texture": "23GVpU6GlIrLpLblPAjjJj",
+      "rect": [
+        16,
+        9,
+        20,
+        27
+      ],
+      "offset": [
+        1,
+        -4
+      ],
+      "originalSize": [
+        50,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adventurer-run-01",
+      "texture": "c9azd7SKZCXZUyRthtgo44",
+      "rect": [
+        16,
+        9,
+        20,
+        27
+      ],
+      "offset": [
+        1,
+        -4
+      ],
+      "originalSize": [
+        50,
+        37
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

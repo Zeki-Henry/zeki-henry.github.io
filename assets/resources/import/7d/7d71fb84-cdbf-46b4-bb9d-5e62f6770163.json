@@ -1,0 +1,710 @@
+{
+  "__type__": "cc.SkeletonAnimationClip",
+  "_name": "Attack",
+  "_native": ".bin",
+  "_duration": 1.125,
+  "sample": 30,
+  "wrapMode": 2,
+  "description": {
+    "Spider_Armature/Body_003/Body_002": {
+      "position": {
+        "offset": 0,
+        "frameCount": 22
+      },
+      "quat": {
+        "offset": 88,
+        "frameCount": 2
+      },
+      "scale": {
+        "offset": 98,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body": {
+      "position": {
+        "offset": 102,
+        "frameCount": 17
+      },
+      "quat": {
+        "offset": 170,
+        "frameCount": 21
+      },
+      "scale": {
+        "offset": 275,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/Body2": {
+      "quat": {
+        "offset": 279,
+        "frameCount": 27
+      },
+      "scale": {
+        "offset": 414,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 418,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v_B1_L": {
+      "quat": {
+        "offset": 422,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 562,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 566,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v_B1_L/v_B2_L": {
+      "quat": {
+        "offset": 570,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 710,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 714,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v_B1_L/v_B2_L/v_B3_L": {
+      "quat": {
+        "offset": 718,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 858,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 862,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v2_B1_L": {
+      "quat": {
+        "offset": 866,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 1006,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 1010,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v2_B1_L/v2_B2_L": {
+      "quat": {
+        "offset": 1014,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 1154,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 1158,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v2_B1_L/v2_B2_L/v2_B3_L": {
+      "quat": {
+        "offset": 1162,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 1302,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 1306,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v3_B1_L": {
+      "quat": {
+        "offset": 1310,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 1450,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 1454,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v3_B1_L/v3_B2_L": {
+      "quat": {
+        "offset": 1458,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 1598,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 1602,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v3_B1_L/v3_B2_L/v3_B3_L": {
+      "quat": {
+        "offset": 1606,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 1746,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 1750,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v4_B1_L": {
+      "quat": {
+        "offset": 1754,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 1894,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 1898,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v4_B1_L/v4_B2_L": {
+      "quat": {
+        "offset": 1902,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 2042,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2046,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v4_B1_L/v4_B2_L/v4_B3_L": {
+      "quat": {
+        "offset": 2050,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 2190,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2194,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/FU_1_L": {
+      "quat": {
+        "offset": 2198,
+        "frameCount": 27
+      },
+      "scale": {
+        "offset": 2333,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2337,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/Zahn_L": {
+      "position": {
+        "offset": 2341,
+        "frameCount": 5
+      },
+      "quat": {
+        "offset": 2361,
+        "frameCount": 27
+      },
+      "scale": {
+        "offset": 2496,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v_B1_R": {
+      "quat": {
+        "offset": 2500,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 2640,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2644,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v_B1_R/v_B2_R": {
+      "quat": {
+        "offset": 2648,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 2788,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2792,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v_B1_R/v_B2_R/v_B3_R": {
+      "quat": {
+        "offset": 2796,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 2936,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 2940,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v2_B1_R": {
+      "quat": {
+        "offset": 2944,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 3084,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 3088,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v2_B1_R/v2_B2_R": {
+      "quat": {
+        "offset": 3092,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 3232,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 3236,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v2_B1_R/v2_B2_R/v2_B3_R": {
+      "quat": {
+        "offset": 3240,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 3380,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 3384,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v3_B1_R": {
+      "quat": {
+        "offset": 3388,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 3528,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 3532,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v3_B1_R/v3_B2_R": {
+      "quat": {
+        "offset": 3536,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 3676,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 3680,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v3_B1_R/v3_B2_R/v3_B3_R": {
+      "quat": {
+        "offset": 3684,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 3824,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 3828,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v4_B1_R": {
+      "quat": {
+        "offset": 3832,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 3972,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 3976,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v4_B1_R/v4_B2_R": {
+      "quat": {
+        "offset": 3980,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 4120,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 4124,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/v4_B1_R/v4_B2_R/v4_B3_R": {
+      "quat": {
+        "offset": 4128,
+        "frameCount": 28
+      },
+      "scale": {
+        "offset": 4268,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 4272,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/FU_1_R": {
+      "quat": {
+        "offset": 4276,
+        "frameCount": 27
+      },
+      "scale": {
+        "offset": 4411,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 4415,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/Zahn_R": {
+      "position": {
+        "offset": 4419,
+        "frameCount": 5
+      },
+      "quat": {
+        "offset": 4439,
+        "frameCount": 27
+      },
+      "scale": {
+        "offset": 4574,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/v_B3_L_001": {
+      "position": {
+        "offset": 4578,
+        "frameCount": 21
+      },
+      "quat": {
+        "offset": 4662,
+        "frameCount": 2
+      },
+      "scale": {
+        "offset": 4672,
+        "frameCount": 2
+      }
+    },
+    "Spider_Armature/Body_003/v2_B3_L_001": {
+      "position": {
+        "offset": 4680,
+        "frameCount": 19
+      },
+      "quat": {
+        "offset": 4756,
+        "frameCount": 2
+      },
+      "scale": {
+        "offset": 4766,
+        "frameCount": 2
+      }
+    },
+    "Spider_Armature/Body_003/v3_B3_L_001": {
+      "position": {
+        "offset": 4774,
+        "frameCount": 18
+      },
+      "quat": {
+        "offset": 4846,
+        "frameCount": 2
+      },
+      "scale": {
+        "offset": 4856,
+        "frameCount": 2
+      }
+    },
+    "Spider_Armature/Body_003/v4_B3_L_001": {
+      "position": {
+        "offset": 4864,
+        "frameCount": 19
+      },
+      "quat": {
+        "offset": 4940,
+        "frameCount": 2
+      },
+      "scale": {
+        "offset": 4950,
+        "frameCount": 2
+      }
+    },
+    "Spider_Armature/Body_003/v_B3_R_001": {
+      "position": {
+        "offset": 4958,
+        "frameCount": 21
+      },
+      "quat": {
+        "offset": 5042,
+        "frameCount": 2
+      },
+      "scale": {
+        "offset": 5052,
+        "frameCount": 2
+      }
+    },
+    "Spider_Armature/Body_003/v2_B3_R_001": {
+      "position": {
+        "offset": 5060,
+        "frameCount": 19
+      },
+      "quat": {
+        "offset": 5136,
+        "frameCount": 2
+      },
+      "scale": {
+        "offset": 5146,
+        "frameCount": 2
+      }
+    },
+    "Spider_Armature/Body_003/v3_B3_R_001": {
+      "position": {
+        "offset": 5154,
+        "frameCount": 18
+      },
+      "quat": {
+        "offset": 5226,
+        "frameCount": 2
+      },
+      "scale": {
+        "offset": 5236,
+        "frameCount": 2
+      }
+    },
+    "Spider_Armature/Body_003/v4_B3_R_001": {
+      "position": {
+        "offset": 5244,
+        "frameCount": 19
+      },
+      "quat": {
+        "offset": 5320,
+        "frameCount": 2
+      },
+      "scale": {
+        "offset": 5330,
+        "frameCount": 2
+      }
+    },
+    "Spider_Eyes": {
+      "quat": {
+        "offset": 5338,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5343,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5347,
+        "frameCount": 1
+      }
+    },
+    "Spider": {
+      "quat": {
+        "offset": 5351,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5356,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5360,
+        "frameCount": 1
+      }
+    },
+    "Spider_teeth": {
+      "quat": {
+        "offset": 5364,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5369,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5373,
+        "frameCount": 1
+      }
+    },
+    "Spider_Fur": {
+      "quat": {
+        "offset": 5377,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5382,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5386,
+        "frameCount": 1
+      }
+    },
+    "Hemi": {
+      "quat": {
+        "offset": 5390,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5395,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5399,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature": {
+      "quat": {
+        "offset": 5403,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5408,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5412,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003": {
+      "quat": {
+        "offset": 5416,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5421,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5425,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/FU_1_L/FU_2_L": {
+      "quat": {
+        "offset": 5429,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5434,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5438,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/FU_1_L/FU_2_L/FU_3_L": {
+      "quat": {
+        "offset": 5442,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5447,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5451,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/FU_1_R/FU_2_R": {
+      "quat": {
+        "offset": 5455,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5460,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5464,
+        "frameCount": 1
+      }
+    },
+    "Spider_Armature/Body_003/Body_002/Body/FU_1_R/FU_2_R/FU_3_R": {
+      "quat": {
+        "offset": 5468,
+        "frameCount": 1
+      },
+      "scale": {
+        "offset": 5473,
+        "frameCount": 1
+      },
+      "position": {
+        "offset": 5477,
+        "frameCount": 1
+      }
+    }
+  }
+}

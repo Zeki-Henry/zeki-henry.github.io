@@ -1,0 +1,28 @@
+{
+    "paths": {},
+    "uuids": [
+        "a1AMVBC51FQKAZwRywRZ6Q",
+        "a2MjXRFdtLlYQ5ouAFv/+R",
+        "ecpdLyjvZBwrvm+cedCcQy"
+    ],
+    "scenes": {
+        "db://assets/scenes/GameMain.fire": "a1AMVBC51FQKAZwRywRZ6Q"
+    },
+    "redirect": [
+        "a2MjXRFdtLlYQ5ouAFv/+R",
+        0,
+        "ecpdLyjvZBwrvm+cedCcQy",
+        1
+    ],
+    "deps": [
+        "resources",
+        "internal"
+    ],
+    "packs": {},
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false
+}
